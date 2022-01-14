@@ -72,7 +72,29 @@ Generating data computationally through inference (AI)
 ## EC TODOs week 10th Jan:
 
 1. [ ] Run colouring London locally
-2. [ ] Request to be in colouring London Azure sub with IT
+2. [x] Request to be in colouring London Azure sub with IT
 3. [ ] Log into the VM and see what the commit of the repo the setup was done at
 4. [ ] Propose in the Friday meeting to have a mega sort-through session of issues in order for me (Ed) to have a project board for the 8 months (any timelined milestones, but ideally just project board unless there are specific deadlines for things)
 5. [ ] Perhaps try a fresh setup on another VM? (this will help with the Terraform-ing)
+6. [ ] Should we set up github discussions
+
+## Meeting 14th Jan
+
+- Only Matchek as access to the Azure, Polly should email instroducing us, he is no longer funded on the project
+- doodle for the 2hr session
+- Look at Mateusz PR?
+- using the OSM for testing 
+- Mateusz has docs for the VMs setup
+- The terraform stuff can be based on stuff in here: https://github.com/colouring-london/colouring-london-config 
+- there's also a vagrant script: https://github.com/colouring-london/colouring-london/blob/master/provision/vm_provision.sh
+- Documentation could be a big thing to work on, but not the readthedocs as no docstrings
+- There is a wiki (no info) that could be for entire projects - gitbook maybe? Have a look at the options, needs to be not too hard for Polly to edit
+- Maybe look at the issues and add the below if not already there:
+
+Main priorities:
+- Documentation in the README and docs
+    - Find everything from readme
+    - Docstrings wherever possible
+    - *gibook for a later date*
+- Updating the setup (terraform)
+- Updating the polygons
