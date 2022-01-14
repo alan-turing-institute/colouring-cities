@@ -77,6 +77,7 @@ Generating data computationally through inference (AI)
 4. [ ] Propose in the Friday meeting to have a mega sort-through session of issues in order for me (Ed) to have a project board for the 8 months (any timelined milestones, but ideally just project board unless there are specific deadlines for things)
 5. [ ] Perhaps try a fresh setup on another VM? (this will help with the Terraform-ing)
 6. [ ] Should we set up github discussions
+7. [ ] Make project board in advance of issues meeting
 
 ## Meeting 14th Jan
 
